@@ -1,0 +1,6 @@
+{
+  "name": "حقيبة كتف مضادة للسرقة",
+  "description": "حقيبة كتف عصرية مضادة للسرقة مع قفل مركب ومنفذ شحن USB، مقاومة للماء والخدش بجيوب منظمة وسعة 9.7 بوصة — متوفرة بـ 4 ألوان مع الدفع عند الاستلام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
